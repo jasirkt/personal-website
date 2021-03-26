@@ -1,5 +1,6 @@
 ---
 title: "How to deal with cache stampede in MySQL"
+permalink: /2020/07/how-to-deal-with-cache-stampede-in-mysql.html
 published: true
 ---
 

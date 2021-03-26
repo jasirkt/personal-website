@@ -1,5 +1,6 @@
 ---
 title: "Programmer's Guide to Dealing With Different Time Zones"
+permalink: /2019/03/programmers-guide-to-deal-with.html
 published: true
 ---
 
