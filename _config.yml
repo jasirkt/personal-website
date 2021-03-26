@@ -31,28 +31,28 @@ projects:
 # social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: jasirkt.31
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: jasirkt
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: jasirkt
   # mastodon: your_username
-  # medium: your_username
+  medium: jasirkt
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: jasir_kt
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: https://jasir.dev
   # youtube: your_username
 
 topics:
-  - name: CSS
+  - name: Java
     web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: MySQL
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: React.js
+    #web_url: https://github.com/topics/sass
+    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
