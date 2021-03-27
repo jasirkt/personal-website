@@ -1,4 +1,4 @@
-layout: sidebar
+layout: stacked
 style: light
 
 plugins:
@@ -26,9 +26,26 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+     - BuildJavaWithAnt
+     - jasirkt
+  others:
+    - name: Kolikkal Info
+      url: https://play.google.com/store/apps/details?id=com.jterminal.kolikkalinfo
+      description: A complete reference for residents of Kolikkal Village
+      language: Java
+    - name: Spider Calicut
+      description: First district directory software of Calicut
+      language: Visual Basic
+    - name: Accountz
+      description: Native Billing software tuned for local businesses
+      language: Java
+
+tagline: Software Developer
+location: Calicut, India
+resume_url: https://jasir.dev
 
 social_media:
+  github: jasirkt
   # behance: your_username
   # dribbble: your_username
   facebook: jasirkt.31
@@ -43,17 +60,17 @@ social_media:
   twitter: jasir_kt
   # unsplash: your_username
   # vk: your_username
-  website: https://jasir.dev
+  # website: https://jasir.dev
   # youtube: your_username
 
 topics:
   - name: Java
-    #web_url: https://github.com/topics/css
+    web_url: https://openjdk.java.net/
     image_url: https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java_128x128.png
 
   - name: MySQL
     image_url: https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg
 
   - name: React.js
-    #web_url: https://github.com/topics/sass
+    web_url: https://reactjs.org/
     image_url: https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg
