@@ -1,6 +1,6 @@
 ---
 title: "How to Use Java Exceptions Properly"
-published: true
+published: false
 ---
 
 Exceptions are an excellent way of handling errors or unexpected situations during the flow of a program. Exceptions also ensure that the code is kept clean by making sure that the error handling code is not mixed with the original code.
